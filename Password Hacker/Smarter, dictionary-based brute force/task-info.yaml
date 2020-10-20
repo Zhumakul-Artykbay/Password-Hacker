@@ -137,13 +137,10 @@ files:
 - name: passwords.txt
   visible: true
   learner_created: true
-- name: hacking/__init__.py
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/80/stages/444/implement
 status: Solved
 feedback:
   message: Congratulations! Continue on <a href="https://hyperskill.org/projects/80/stages/444/implement">JetBrains
     Academy</a>
   time: Sun, 18 Oct 2020 08:30:14 UTC
-record: -1
+record: 3
