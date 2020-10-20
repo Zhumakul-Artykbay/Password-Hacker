@@ -1210,15 +1210,10 @@ files:
 - name: logins.txt
   visible: true
   learner_created: true
-- name: hacking/__init__.py
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/80/stages/445/implement
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Error in test #1
-
-    In this test, the program is running for a long time, more than 15 seconds. Most likely, the program has gone into an infinite loop.
-  time: Tue, 20 Oct 2020 08:21:09 UTC
-record: -1
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/80/stages/445/implement">JetBrains
+    Academy</a>
+  time: Tue, 20 Oct 2020 18:37:44 UTC
+record: 4
